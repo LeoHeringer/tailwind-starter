@@ -1,10 +1,16 @@
-# Tailwind Project
+<div align="center">
+  
+  # Tailwind Project
+  
+  <img src="https://github.com/LeoHeringer/tailwind-starter/assets/69641220/2046d1ef-4bdb-4e9c-a338-71a4fcfbeb68.jpg" alt="Tailwind Project" width="400" class="mt-4 mb-4">
+  
+</div>
 
-Welcome to my Tailwind Project! This is a simple website where I'm exploring and testing the capabilities of Tailwind CSS for styling web pages.
+---
 
 ## About
 
-This project serves as a sandbox for learning Tailwind CSS, a utility-first CSS framework that helps me build modern and responsive web interfaces efficiently.
+Welcome to my Tailwind Project! This is a simple website where I'm exploring and testing the capabilities of Tailwind CSS for styling web pages.
 
 ## Features
 
@@ -19,7 +25,7 @@ This project serves as a sandbox for learning Tailwind CSS, a utility-first CSS 
 - CSS3 (utilizing Tailwind CSS)
 - JavaScript (if applicable)
 
-## How to Run
+## How to Run Locally
 
 To run this project locally:
 
